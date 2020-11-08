@@ -62,4 +62,4 @@ Contraseña app en Adobe XD: Innovacion0425
 
 Graficos en Power BI: https://app.powerbi.com/groups/me/reports/945d81e8-eb45-4be5-a14d-3b8af4010ef7/ReportSectionc3f273b05de73e9e906b?openReportSource=ReportInvitation&ctid=4ae54b05-b77e-4224-aef1-8661422e0816
 
-Pitch: 
+Pitch: https://youtu.be/qoeJYDamNng
