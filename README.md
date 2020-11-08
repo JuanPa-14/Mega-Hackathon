@@ -10,6 +10,10 @@ cuarto** y hasta **un tercio** del total producido **a nivel mundial**. Por lo q
 
 Para comprobar el dato anterior no es necesario hacer un analisis a nivel mundial, es suficiente con realizar un muestreo en nuestras localidades. Bajo este contexto, durante el desarrollo de este proyecto hicimos llegar una encuesta digital a 65 personas responsables de las compras y administración de alimentos perecederos en sus hogares, al analizar los resultados descubrimos que en efecto existe una tendencia entre la población a desperdiciar alimentos, sobre todo del frutas, verduras y lácteos. Entre los datos recabados pudimos extraer los siguientes gráficos:
 
+## Frecuencia de compra del consumidor
+En este gráfico se muestran la forma en que el encuestado aprovisiona sus alimentos.
+
+
 ## Tipo de alimentos más comprados segun forma de aprovisionamiento del consumidor
 En este gráfico se muestran los prooductos que el consumidor dice comprar mas seguido.
 ![Grafico 2](https://user-images.githubusercontent.com/71684155/98471038-42e17f80-21af-11eb-9ab7-576bd2344af2.jpeg)
