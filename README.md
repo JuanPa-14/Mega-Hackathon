@@ -1,5 +1,15 @@
 # Feeding Generations
 
+## **Equipo _"Crystal Gems"_**
+
+- Joana Paola Jiménez  López (Líder)---- viajero04205@innovaccion.mx
+
+- Sara Verónica Rodríguez Sánchez ---- viajerouanl331@innovaccion.mx
+
+- Juan Pablo Regules Marquez --------- viajero04203@innovaccion.mx
+
+## La problemática.
+
 Es muy evidente la crisis por la que hoy atravesamos en el pais y el mundo, la demanda de alimentos es grande y cada vez exige una mayor inversión de recursos capitales y espacios
 destinados para satisfacerla. Esta necesidad impulsa mayormente a la expansion de las zonas de cultivo y/o de extración de los recursos, generando daños colaterales a nuestro medio ambiente y las especies que lo habitan, icluyedonos a nosotros.
 
@@ -38,7 +48,7 @@ El propósito de usar esta mecánica es concientizar al usuario de las perdidas 
 
 ## Ejecución de la solución propuesta
 
-Se crearon las siguientes dos applicaciones tituladas "Feeding Generations" que pretenden dar solución a la problematica. Por el momento no se encuntran funcionando con todas las carazcteizticas descritas.
+Se crearon las siguientes dos applicaciones tituladas "Feeding Generations" que pretenden dar solución a la problemática planteada, aunque por el momento no se encuntran funcionando con todas las caracterizticas descritas.
 
 Feeding Generations en Power Apps: https://apps.powerapps.com/play/0ec1a504-a0d9-4513-ba36-0bb625c15f6a?tenantId=4ae54b05-b77e-4224-aef1-8661422e0816
 
@@ -53,6 +63,3 @@ Contraseña app en Adobe XD: Innovacion0425
 Graficos en Power BI: https://app.powerbi.com/groups/me/reports/945d81e8-eb45-4be5-a14d-3b8af4010ef7/ReportSectionc3f273b05de73e9e906b?openReportSource=ReportInvitation&ctid=4ae54b05-b77e-4224-aef1-8661422e0816
 
 Pitch: 
-
-
-
