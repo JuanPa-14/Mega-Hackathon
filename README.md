@@ -50,9 +50,9 @@ El propósito de usar esta mecánica es concientizar al usuario de las perdidas 
 
 Se crearon las siguientes dos applicaciones tituladas "Feeding Generations" que pretenden dar solución a la problemática planteada, aunque por el momento no se encuntran funcionando con todas las caracterizticas descritas.
 
-Feeding Generations en Power Apps: https://apps.powerapps.com/play/0ec1a504-a0d9-4513-ba36-0bb625c15f6a?tenantId=4ae54b05-b77e-4224-aef1-8661422e0816
+- Feeding Generations en Power Apps: https://apps.powerapps.com/play/0ec1a504-a0d9-4513-ba36-0bb625c15f6a?tenantId=4ae54b05-b77e-4224-aef1-8661422e0816
 
-Feeding Generations en Adobe XD: https://xd.adobe.com/view/d1942ea3-6639-4f24-5e31-39fd360ed9ba-a7a5/?fullscree
+- Feeding Generations en Adobe XD: https://xd.adobe.com/view/d1942ea3-6639-4f24-5e31-39fd360ed9ba-a7a5/?fullscree
 
 Contraseña app en Adobe XD: Innovacion0425
 
