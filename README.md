@@ -41,7 +41,7 @@ Después de realizar esta pequeña investigación optamos por atacar directament
 
 Cuando el tiempo trasncurrido desde la captura se comienza a igualar con el tiempo promedio de vida, la applicación debe enviar una notificación al usuario mostrando un mensaje que le indique que estará perdiendo el costo del alimento próximo a la putrefacción. En adicional le debe recomendar recetas asociadas a ese producto.
 
-Por ejemplo: Si el usuario ha ingresado 10 Tomates con un precio por pieza de $3 y el tiempo transcurrido se comienza a igualar al tiempo promedio de vida de los tomates: la aplicación le notificará mediante el mensaje "Estas a punto de perder $30", al ingresar a la applicación deberia ver que genera esa perdida y como puede evitarla (Mediante las recetas recomendadas).
+Por ejemplo: Si el usuario ha ingresado 10 Tomates con un precio por pieza de $3 y el tiempo transcurrido se comienza a igualar al tiempo promedio de vida de los tomates: la aplicación le notificará mediante el mensaje "Estas a punto de perder $30", al ingresar debería ver que genera esa pérdida y como puede evitarla (Mediante las recetas recomendadas).
 
 El propósito de usar esta mecánica es concientizar al usuario de las perdidas monetarias que le causan el desperdiciar alimentos y productos, lo que prevemos reducirá el impacto natural descrito al inicio, mediante una reacción en cádena que obligue al productor a solo producir lo necesario.
 
